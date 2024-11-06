@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+:root{ 
+    --bg-color:#CDC1FF;
+    --primary-color:#E5D9F2;
+    --secondary-colar:#A594F9;
+    --font: "Edu AU VIC WA NT Guides", sans-serif;
+}
